@@ -1,1 +1,5 @@
 # Ondago App
+
+```
+npm install
+```
